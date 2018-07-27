@@ -1,0 +1,56 @@
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 35px;
+  margin-bottom: 15px;
+  margin-top: 25px;
+
+}
+
+nav ul li a {
+  color: #008080;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: green;
+}
+
+.home {
+  padding-top: 300px;
+  padding-bottom: 420px;
+  text-align: center;
+  background: #e0ebe8;
+}
+
+.home p {
+  padding-top: 10px;
+  color: green;
+}
+
+.bio {
+  padding-top: 125px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+.bio p {
+  padding-top: 25px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
