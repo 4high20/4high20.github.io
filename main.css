@@ -81,6 +81,7 @@ nav ul li a:hover {
     outline: none;
     margin-top: 15px;
     border-radius: 8px;
+    width: 100px;
 }
 
 #shuffle {
