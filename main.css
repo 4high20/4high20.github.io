@@ -96,3 +96,7 @@ nav ul li a:hover {
     margin-top: 15px;
     border-radius: 8px;
 }
+
+#storyParagraph {
+  line-height: 1.6;
+}
